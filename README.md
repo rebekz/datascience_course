@@ -20,9 +20,9 @@ Next, run the following commands:
     $ conda activate bol_datascience_course
     $ python -m ipykernel install --user --name=bol_datascience_course
 
-If you aren't use Visual Studio Code then you need to start Jupyter to able open the ipynb notebook
+If you aren't use Visual Studio Code then you need to start Jupyter Lab to able open the ipynb notebook
 
-    $ jupyter notebook
+    $ jupyter lab
 
 References
 --------
